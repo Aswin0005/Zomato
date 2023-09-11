@@ -1,4 +1,4 @@
-const foodPic = [{
+export const foodPic = [{
     name:'Pizza',
     image:'./FoodPics/pizzaPic.avif'
 },
