@@ -71,7 +71,7 @@ async function foodData(){
         console.log(dishName);
 
         document.querySelector('.grid-container')
-        .innerHTML += `<div class=" foods-master-container">
+        .innerHTML += `<div class="foods-master-container">
         <img class ="food-image" src="${imageURL}">
         <p>${dishName}</p>
         <div class="des-price-container">
